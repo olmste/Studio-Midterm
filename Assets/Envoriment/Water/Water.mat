@@ -65,14 +65,14 @@ Material:
     - Vector1_6f56a0970372485390c6587863c2374e: -1
     - Vector1_7273530c27a34c9f8ee5723b84f96baa: 0.2
     - Vector1_dada42ebfac44076897b6de67441ba32: 0.3
-    - _Depth: -0.53
+    - _Depth: 0.02
     - _Displacement: 0.5
     - _Float: 0
     - _Normal_Strength: 0.556
     - _QueueControl: 0
     - _QueueOffset: 9
     - _Smoothness: 0.462
-    - _Strength: 1
+    - _Strength: 1.274
     m_Colors:
     - Color_36218622185947c6a5ae36366d8e21d8: {r: 0.03921569, g: 0.09803919, b: 0.27450976, a: 0.7058824}
     - Color_93e06cd551a5449091bcde90b46765a0: {r: 0.03804734, g: 0.5490196, b: 0.5490196, a: 0.1960784}
