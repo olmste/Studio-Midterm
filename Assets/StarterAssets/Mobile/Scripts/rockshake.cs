@@ -7,6 +7,9 @@ public class rockshake : MonoBehaviour
     [SerializeField] float BounceAmplitude = .25f;
     [SerializeField] float BouncePeriod = 2f;
 
+    [SerializeField] float RotationSpeed = 45f;
+
+
     Vector3 InitialPosition;
     float Progress;
 
@@ -15,6 +18,8 @@ public class rockshake : MonoBehaviour
     {
         InitialPosition = transform.position;
         Progress = Random.Range(0f, 1f);
+
+        transform.Rotate(0f, Random.Range(0f, 360f), 0);
     }
 
     // Update is called once per frame
@@ -26,6 +31,9 @@ public class rockshake : MonoBehaviour
         // calculate and apply the height
         float heightDelta = BounceAmplitude * Mathf.Sin(Progress * Mathf.PI * 2);
         transform.position = InitialPosition + Vector3.up * heightDelta;
+
+        //apply the rotation
+        transform.Rotate(0f, RotationSpeed * Time.deltaTime, 0f);
     }
 }
 
