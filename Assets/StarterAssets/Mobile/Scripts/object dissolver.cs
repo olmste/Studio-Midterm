@@ -8,14 +8,14 @@ public class NewBehaviourScript : MonoBehaviour
     [SerializeField] bool IsDissolving = false;
 
     float DissolveProgress = 0f;
-    MeshRenderer MeshRenderers;
+    MeshRenderer[] MeshRenderers;
     MaterialPropertyBlock PropertyBlock;
 
     // Start is called before the first frame update
     void Start()
     {
         //Retrieve all renderers
-        MeshRenderers = GetComponentInChildren<MeshRenderer>();
+        MeshRenderers = GetComponentsInChildren<MeshRenderer>();
 
         // strt the dissolved progress at 0
         PropertyBlock = new MaterialPropertyBlock();

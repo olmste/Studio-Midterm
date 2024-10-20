@@ -9,9 +9,9 @@ Shader "Custom/NewSurfaceShader"
 
         _HighlightPeriod ("Highlight Intensity", Range(0,1)) = 0
         _HighlightColor ("Highlight Color", Color) = (1, 1, 1, 1)
-        _HighlightIntensity ("Highlight Intensity", Range(0,1) = 0.5
+        _HighlightIntensity ("Highlight Intensity", Range(0,1)) = 0.5
 
-        _DissolveProgress ("Dissolve Progress", Range(0,1)0 = 0
+        _DissolveProgress ("Dissolve Progress", Range(0,1)) = 0
         _DissolveEdgeColor ("Dissolve Edge Color", Color) = (1,1,1,1)
         _DissolveEdgeDepth ("Dissolve Edge Depth", Range(0,1)) = 0 
         _DissolveTexture("Disolve Texture", 2D) = "white texture"
@@ -86,7 +86,7 @@ Shader "Custom/NewSurfaceShader"
 
             // apply the highlight
 
-            o.Emission = lerp(_DissolvingEdgeColor, o.Albedo * _HighlightColor * workingIntensity, step(_DissolveEdgeDepth, dissolveFactor));
+            o.Emission = lerp(_DissolveEdgeColor, o.Albedo * _Highlightcolor * workingIntensity, step(_DissolveEdgeDepth, dissolveFactor));
         }
         ENDCG
     }
