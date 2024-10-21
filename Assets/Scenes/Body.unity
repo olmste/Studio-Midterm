@@ -15868,19 +15868,37 @@ PrefabInstance:
       propertyPath: SprintSpeed
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
       value: 20
 =======
 <<<<<<< HEAD
 =======
 >>>>>>> butterflies
+<<<<<<< HEAD
+=======
+>>>>>>> origin
+>>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
       value: 6
 =======
       value: 20
 >>>>>>> origin
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> butterflies
 =======
 >>>>>>> butterflies
+=======
+=======
+<<<<<<< HEAD
+>>>>>>> butterflies
+=======
+>>>>>>> butterflies
+>>>>>>> origin
+>>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
       objectReference: {fileID: 0}
     - target: {fileID: 3164487292427907905, guid: 00e66ba3bd1747c43b7c043e035c76f9, type: 3}
       propertyPath: m_LocalPosition.x
