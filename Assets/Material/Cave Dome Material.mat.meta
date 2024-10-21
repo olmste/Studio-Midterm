@@ -1,9 +1,23 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
 <<<<<<<< HEAD:Assets/Material/Cave Dome Material.mat.meta
 guid: 6162f1c38b2d1ee429ec7955d7325426
 ========
 guid: ee55c50bbcf1f27429351ac60b133fe7
 >>>>>>>> ButterflyRoom:Assets/prefab/New Material 1.mat.meta
+<<<<<<< HEAD
+=======
+=======
+<<<<<<<< HEAD:Assets/Material/Trasparent.mat.meta
+guid: 79697cb27ba6a0f42a634ddc70c3c4d1
+========
+guid: 6162f1c38b2d1ee429ec7955d7325426
+>>>>>>>> master:Assets/Material/Cave Dome Material.mat.meta
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000

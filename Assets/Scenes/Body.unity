@@ -14979,9 +14979,18 @@ ParticleSystem:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 --- !u!4 &320256759 stripped
 =======
 >>>>>>> ButterflyRoom
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
 --- !u!4 &303046302 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0e16eaba15f39db44931ec9a837e2fd6, type: 3}
@@ -15136,6 +15145,10 @@ MeshCollider:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
 --- !u!4 &442536177 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 3374963052485923446, guid: 29f9a81cc9d94734cb11da458ee4e32c, type: 3}
@@ -15207,6 +15220,11 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 29f9a81cc9d94734cb11da458ee4e32c, type: 3}
 =======
 >>>>>>> ButterflyRoom
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
 --- !u!82 &430670528
 AudioSource:
   m_ObjectHideFlags: 0
@@ -15305,8 +15323,17 @@ AudioSource:
     m_RotationOrder: 4
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
+<<<<<<< HEAD
+=======
 >>>>>>> origin
 >>>>>>> ButterflyRoom
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
 --- !u!1 &483496311
 GameObject:
   m_ObjectHideFlags: 0
@@ -21905,6 +21932,10 @@ SceneRoots:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
   - {fileID: 32384053}
   - {fileID: 766957662}
   - {fileID: 73768461}
@@ -21913,3 +21944,8 @@ SceneRoots:
 =======
 >>>>>>> origin
 >>>>>>> ButterflyRoom
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1

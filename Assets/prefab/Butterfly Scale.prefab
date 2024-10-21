@@ -145,6 +145,7 @@ PrefabInstance:
       value: -69.99999
       objectReference: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -161,6 +162,13 @@ PrefabInstance:
 =======
 >>>>>>> origin
 >>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
     - target: {fileID: 2317792, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -171,6 +179,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 66de6c634ebd651409b3044d9ca6cced, type: 2}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin
 =======
@@ -187,10 +196,19 @@ PrefabInstance:
 =======
 >>>>>>> origin
 >>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
+=======
+>>>>>>> origin
+=======
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -221,6 +239,7 @@ PrefabInstance:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> butterflies
 =======
 >>>>>>> butterflies
@@ -232,6 +251,10 @@ PrefabInstance:
 >>>>>>> butterflies
 >>>>>>> origin
 >>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
+=======
+=======
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
     - targetCorrespondingSourceObject: {fileID: 138252, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
       insertIndex: -1
       addedObject: {fileID: 3345546088421997161}
@@ -244,6 +267,7 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 186998, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin
 =======
@@ -260,11 +284,20 @@ PrefabInstance:
 =======
 >>>>>>> origin
 >>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
+=======
+>>>>>>> origin
+=======
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
       insertIndex: -1
       addedObject: {fileID: 1106970366970807175}
   m_SourcePrefab: {fileID: 100100000, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 --- !u!4 &9166411148252676278 stripped
 Transform:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -288,6 +321,7 @@ Transform:
 >>>>>>> origin
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> butterflies
 =======
 >>>>>>> butterflies
@@ -299,10 +333,19 @@ Transform:
 >>>>>>> butterflies
 >>>>>>> origin
 >>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
+=======
+=======
+  m_CorrespondingSourceObject: {fileID: 421922, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
   m_PrefabInstance: {fileID: 9166411148253098132}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &9166411148252966040 stripped
 GameObject:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -326,6 +369,7 @@ GameObject:
 >>>>>>> origin
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> butterflies
 =======
 >>>>>>> butterflies
@@ -337,6 +381,11 @@ GameObject:
 >>>>>>> butterflies
 >>>>>>> origin
 >>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
+=======
+=======
+  m_CorrespondingSourceObject: {fileID: 138252, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
   m_PrefabInstance: {fileID: 9166411148253098132}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &3345546088421997161
@@ -371,6 +420,10 @@ MonoBehaviour:
 --- !u!1 &9166411148252981986 stripped
 GameObject:
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -393,6 +446,7 @@ GameObject:
 >>>>>>> origin
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> butterflies
 =======
 >>>>>>> butterflies
@@ -404,6 +458,11 @@ GameObject:
 >>>>>>> butterflies
 >>>>>>> origin
 >>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
+=======
+=======
+  m_CorrespondingSourceObject: {fileID: 186998, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
   m_PrefabInstance: {fileID: 9166411148253098132}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &1106970366970807175
@@ -418,6 +477,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20d7a77d39f0c17438036c19b042b94e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -439,6 +502,7 @@ GameObject:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> butterflies
 =======
 >>>>>>> butterflies
@@ -450,12 +514,17 @@ GameObject:
 >>>>>>> butterflies
 >>>>>>> origin
 >>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
+=======
+=======
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
   newColor: {r: 0.54088044, g: 0.39290366, b: 0.39290366, a: 0.60784316}
 --- !u!1 &9166411148252984646 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 181714, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin
 =======
@@ -472,6 +541,11 @@ GameObject:
 =======
 >>>>>>> origin
 >>>>>>> 99269cd880b69dfd4007aaf32b8d9f2739425067
+=======
+>>>>>>> origin
+=======
+>>>>>>> master
+>>>>>>> 9228f33274d57f0a0f19c0eeb08b5eb4fb99a8b1
   m_PrefabInstance: {fileID: 9166411148253098132}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &5512790968352736271
