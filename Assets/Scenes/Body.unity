@@ -15867,13 +15867,19 @@ PrefabInstance:
     - target: {fileID: 3045665919861350148, guid: 00e66ba3bd1747c43b7c043e035c76f9, type: 3}
       propertyPath: SprintSpeed
 <<<<<<< HEAD
+<<<<<<< HEAD
       value: 20
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> butterflies
       value: 6
 =======
       value: 20
 >>>>>>> origin
+<<<<<<< HEAD
+>>>>>>> butterflies
+=======
 >>>>>>> butterflies
       objectReference: {fileID: 0}
     - target: {fileID: 3164487292427907905, guid: 00e66ba3bd1747c43b7c043e035c76f9, type: 3}

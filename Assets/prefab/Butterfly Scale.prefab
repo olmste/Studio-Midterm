@@ -147,6 +147,9 @@ PrefabInstance:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> butterflies
 =======
 >>>>>>> butterflies
     - target: {fileID: 2317792, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
@@ -158,6 +161,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 2100000, guid: 66de6c634ebd651409b3044d9ca6cced, type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin
+>>>>>>> butterflies
 =======
 >>>>>>> origin
 >>>>>>> butterflies
@@ -166,8 +173,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents:
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> butterflies
     - targetCorrespondingSourceObject: {fileID: 138252, guid: be999fe03c257ec4cb0a3a4b5ca72217,
         type: 3}
       insertIndex: -1
@@ -183,6 +193,9 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 186998, guid: be999fe03c257ec4cb0a3a4b5ca72217,
         type: 3}
 =======
+<<<<<<< HEAD
+>>>>>>> butterflies
+=======
 >>>>>>> butterflies
     - targetCorrespondingSourceObject: {fileID: 138252, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
       insertIndex: -1
@@ -195,6 +208,10 @@ PrefabInstance:
       addedObject: {fileID: 5512790968352736271}
     - targetCorrespondingSourceObject: {fileID: 186998, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin
+>>>>>>> butterflies
 =======
 >>>>>>> origin
 >>>>>>> butterflies
@@ -204,28 +221,40 @@ PrefabInstance:
 --- !u!4 &9166411148252676278 stripped
 Transform:
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_CorrespondingSourceObject: {fileID: 421922, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> butterflies
   m_CorrespondingSourceObject: {fileID: 421922, guid: be999fe03c257ec4cb0a3a4b5ca72217,
     type: 3}
 =======
   m_CorrespondingSourceObject: {fileID: 421922, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 >>>>>>> origin
+<<<<<<< HEAD
+>>>>>>> butterflies
+=======
 >>>>>>> butterflies
   m_PrefabInstance: {fileID: 9166411148253098132}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &9166411148252966040 stripped
 GameObject:
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_CorrespondingSourceObject: {fileID: 138252, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> butterflies
   m_CorrespondingSourceObject: {fileID: 138252, guid: be999fe03c257ec4cb0a3a4b5ca72217,
     type: 3}
 =======
   m_CorrespondingSourceObject: {fileID: 138252, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 >>>>>>> origin
+<<<<<<< HEAD
+>>>>>>> butterflies
+=======
 >>>>>>> butterflies
   m_PrefabInstance: {fileID: 9166411148253098132}
   m_PrefabAsset: {fileID: 0}
@@ -261,14 +290,20 @@ MonoBehaviour:
 --- !u!1 &9166411148252981986 stripped
 GameObject:
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_CorrespondingSourceObject: {fileID: 186998, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> butterflies
   m_CorrespondingSourceObject: {fileID: 186998, guid: be999fe03c257ec4cb0a3a4b5ca72217,
     type: 3}
 =======
   m_CorrespondingSourceObject: {fileID: 186998, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 >>>>>>> origin
+<<<<<<< HEAD
+>>>>>>> butterflies
+=======
 >>>>>>> butterflies
   m_PrefabInstance: {fileID: 9166411148253098132}
   m_PrefabAsset: {fileID: 0}
@@ -285,13 +320,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> butterflies
   newColor: {r: 0.59119487, g: 0.42201644, b: 0.42201644, a: 0.60784316}
 --- !u!1 &9166411148252984646 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 181714, guid: be999fe03c257ec4cb0a3a4b5ca72217,
     type: 3}
+=======
+<<<<<<< HEAD
+>>>>>>> butterflies
 =======
 >>>>>>> butterflies
   newColor: {r: 0.54088044, g: 0.39290366, b: 0.39290366, a: 0.60784316}
@@ -299,6 +340,10 @@ GameObject:
 GameObject:
   m_CorrespondingSourceObject: {fileID: 181714, guid: be999fe03c257ec4cb0a3a4b5ca72217, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> origin
+>>>>>>> butterflies
 =======
 >>>>>>> origin
 >>>>>>> butterflies
