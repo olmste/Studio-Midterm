@@ -7,6 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/Material/Cave Dome Material.mat
   m_Name: Cave Dome Material
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
@@ -14,6 +15,10 @@ Material:
   m_Name: Sky
   m_Shader: {fileID: 104, guid: 0000000000000000f000000000000000, type: 0}
 >>>>>>>> ButterflyRoom:Assets/Material/Sky.mat
+=======
+  m_Name: Cave Dome Material
+  m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
+>>>>>>> master
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -24,17 +29,23 @@ Material:
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
+<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/Material/Cave Dome Material.mat
   stringTagMap:
     RenderType: Opaque
 ========
   stringTagMap: {}
 >>>>>>>> ButterflyRoom:Assets/Material/Sky.mat
+=======
+  stringTagMap:
+    RenderType: Opaque
+>>>>>>> master
   disabledShaderPasses: []
   m_LockedProperties: _SmoothnessTextureChannel
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/Material/Cave Dome Material.mat
 ========
     - _BackTex:
@@ -42,6 +53,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
 >>>>>>>> ButterflyRoom:Assets/Material/Sky.mat
+=======
+>>>>>>> master
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -92,6 +105,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
         m_Texture: {fileID: 2800000, guid: f6f991885f0226b4487beb016bf7efc5, type: 3}
+<<<<<<< HEAD
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
 <<<<<<<< HEAD:Assets/Material/Cave Dome Material.mat
@@ -101,6 +115,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
 >>>>>>>> ButterflyRoom:Assets/Material/Sky.mat
+=======
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+>>>>>>> master
     - _SpecGlossMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -137,20 +155,27 @@ Material:
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
+<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/Material/Cave Dome Material.mat
 ========
     - _Exposure: 1
 >>>>>>>> ButterflyRoom:Assets/Material/Sky.mat
+=======
+>>>>>>> master
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
     - _Metallic: 0
     - _OcclusionStrength: 1
+<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/Material/Cave Dome Material.mat
+=======
+>>>>>>> master
     - _Parallax: 0.0249
     - _QueueOffset: 0
     - _ReceiveShadows: 1
     - _Smoothness: 0.223
+<<<<<<< HEAD
 ========
     - _Parallax: 0.005
     - _QueueOffset: 0
@@ -158,6 +183,8 @@ Material:
     - _Rotation: 0
     - _Smoothness: 0.5
 >>>>>>>> ButterflyRoom:Assets/Material/Sky.mat
+=======
+>>>>>>> master
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
@@ -166,13 +193,17 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
+<<<<<<< HEAD
 <<<<<<<< HEAD:Assets/Material/Cave Dome Material.mat
+=======
+>>>>>>> master
     - _BaseColor: {r: 0.645283, g: 0.3685463, b: 0.25202557, a: 1}
     - _Color: {r: 0.6452829, g: 0.36854628, b: 0.25202554, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &2472933878432709954
+<<<<<<< HEAD
 ========
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
@@ -182,6 +213,8 @@ Material:
   m_BuildTextureStacks: []
 --- !u!114 &3182465657876851568
 >>>>>>>> ButterflyRoom:Assets/Material/Sky.mat
+=======
+>>>>>>> master
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}

@@ -14977,11 +14977,14 @@ ParticleSystem:
         m_RotationOrder: 4
     vectorLabel1_3: W
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 --- !u!4 &320256759 stripped
 =======
 >>>>>>> ButterflyRoom
+=======
+>>>>>>> master
 --- !u!4 &303046302 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0e16eaba15f39db44931ec9a837e2fd6, type: 3}
@@ -15134,6 +15137,7 @@ MeshCollider:
   m_CookingOptions: 30
   m_Mesh: {fileID: -3335442511603561631, guid: 0e16eaba15f39db44931ec9a837e2fd6, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 --- !u!4 &442536177 stripped
@@ -15207,6 +15211,8 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 29f9a81cc9d94734cb11da458ee4e32c, type: 3}
 =======
 >>>>>>> ButterflyRoom
+=======
+>>>>>>> master
 --- !u!82 &430670528
 AudioSource:
   m_ObjectHideFlags: 0
@@ -15304,9 +15310,12 @@ AudioSource:
     m_PostInfinity: 2
     m_RotationOrder: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> origin
 >>>>>>> ButterflyRoom
+=======
+>>>>>>> master
 --- !u!1 &483496311
 GameObject:
   m_ObjectHideFlags: 0
@@ -21875,6 +21884,7 @@ SceneRoots:
   - {fileID: 1895907874}
   - {fileID: 2110657697}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
   - {fileID: 32384053}
@@ -21885,3 +21895,5 @@ SceneRoots:
 =======
 >>>>>>> origin
 >>>>>>> ButterflyRoom
+=======
+>>>>>>> master
